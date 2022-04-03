@@ -1,0 +1,16 @@
+PRACTICE PROGRAMS
+
+Q1. Write the program that defines a function to reads data of VEHICLE from
+the data file VEHICLE.DA and prints, counts and stores the details of all
+Vehicles whose name is ‘Wagon R’ and cost is greater than 600000 in another
+fileVehi.Da.
+
+
+Q2. Write a program to display the details of the Shop that has the minimum
+Sales in a month. The data is available in a binary file named SHOPS.DAT,
+and the data is stored in given format.
+
+
+Q3. Assuming a binary file JOKES.DAT is containing data in List format
+JOKE okeId, Type, Joke Description as defined below. Write a program to
+add data in file at the end without deleting the previous data.

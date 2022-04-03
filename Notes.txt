@@ -1,0 +1,45 @@
+my name is diamond
+no
+i m reading in 12
+good day
+thank you
+
+#Program to find Palindrome of number
+
+def palindrome(n):
+    r=0
+    while n>0:
+        d=n%10
+        r=r*10+d
+        n=n//10
+    print(r)
+    
+a=int(input('Enter the number : '))
+palindrome(a)
+#Program to show the reverse in a list
+
+def reverse_list(l):
+    r=l[::-1]
+    return r
+
+a=list(input("Enter a list : "))
+b=reverse_list(a)
+print(b)
+#Program to show the reverse in a list
+
+def reverse_list(l):
+    r=l[::-1]
+    return r
+
+a=list(input("Enter a list : "))
+b=reverse_list(a)
+print(b)
+#Program to show the reverse in a list
+
+def reverse_list(l):
+    r=l[::-1]
+    return r
+
+a=list(input("Enter a list : "))
+b=reverse_list(a)
+print(b)
